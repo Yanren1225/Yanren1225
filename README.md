@@ -1,5 +1,9 @@
-### Hi there 👋
+### Aloha 👋
 
+## Blog <https://blog.endureblaze.cn/>
+## Website <https://endureblaze.cn/>
+
+## From China
 <!--
 **EndureBlaze/EndureBlaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
