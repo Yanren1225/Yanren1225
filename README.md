@@ -1,9 +1,14 @@
-### Aloha 👋
+### Aloha 👋 I'm here.
 
-## Blog <https://blog.endureblaze.cn/>
-## Website <https://endureblaze.cn/>
+## Stats
 
-## From China
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=endureblaze&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endureblaze&count_private=true&show_icons=true&layout=compact&theme=gruvbox&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+## Website 
+
+Blog <https://blog.endureblaze.cn/>   
+Home <https://endureblaze.cn/>
+
 <!--
 **EndureBlaze/EndureBlaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
