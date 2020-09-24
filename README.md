@@ -1,4 +1,3 @@
-
 ```plain
  _____               _                           ____    _
 | ____|  _ __     __| |  _   _   _ __   ___     | __ )  | |   __ _   ____   ___
@@ -6,13 +5,30 @@
 | |___  | | | | | (_| | | |_| | | |   |  __/    | |_) | | | | (_| |  / /  |  __/
 |_____| |_| |_|  \__,_|  \__,_| |_|    \___|    |____/  |_|  \__,_| /___|  \___|
 ```
+
 ### Aloha 👋 I'm here.
 
 ## Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=endureblaze&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endureblaze&count_private=true&show_icons=true&layout=compact&theme=gruvbox&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-## Website 
 
-Blog <https://blog.endureblaze.cn/>   
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DEndureBlaze&longCache=true&style=for-the-badge)](https://github.com/EndureBlaze?tab=followers)
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual+Studio+Code)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ-IDEA)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=white)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+
+## Website
+
+Blog <https://blog.endureblaze.cn/>
+
 Home <https://endureblaze.cn/>
