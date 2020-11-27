@@ -29,6 +29,6 @@
 
 ## Website
 
-Blog <https://blog.endureblaze.cn/>
+Blog <https://blog.imyan.ren/>
 
-Home <https://endureblaze.cn/>
+Home <https://imyan.ren/>
