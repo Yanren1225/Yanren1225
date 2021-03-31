@@ -32,3 +32,9 @@
 Blog <https://blog.imyan.ren/>
 
 Home <https://imyan.ren/>
+
+## Other
+
+pages:<https://github.com/EndureBlazePages>
+
+actions:<https://github.com/EndureBlazeActions>
