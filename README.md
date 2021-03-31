@@ -35,6 +35,6 @@ Home <https://imyan.ren/>
 
 ## Other
 
-pages:<https://github.com/EndureBlazePages>
+Pages <https://github.com/EndureBlazePages>
 
-actions:<https://github.com/EndureBlazeActions>
+Actions <https://github.com/EndureBlazeActions>
