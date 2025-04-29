@@ -35,8 +35,6 @@
 
 ## Website
 
-Blog <https://blog.imyan.ren/>
-
 Home <https://imyan.ren/>
 
 ## Other
